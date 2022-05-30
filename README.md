@@ -19,13 +19,16 @@
 
   ## Installation
   Here are the installation instructions for this project:
-  You install this project by creating a .env for your mysql username and password, then type npm run seed to pre populate posts, commments, and users. Type npm start to turn on the server, then go to localhost:3001 to interact with the site on your browser
+  You install this project by creating a .env for your mysql username and password, then type npm run seed to pre populate posts, commments, and users. Type npm start   to turn on the server, then go to localhost:3001 to interact with the site on your browser
   
 
   ## Usage
   Here are the instructions and examples of how to use this project:
-  You use it by logging in or signing up then you can view other users posts and comment on them as well as creating your own posts. Once you create a post you can also edit and delete your post.
-
+  You use it by logging in or signing up then you can view other users posts and comment on them as well as creating your own posts. Once you create a post you can       also edit and delete your post.
+  
+  Here is the link for the deployed application:
+  
+  https://guarded-garden-41223.herokuapp.com/
 
   
   ## License
