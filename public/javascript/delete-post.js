@@ -18,3 +18,5 @@ async function deleteFormHandler(event) {
         alert(response.statusText);
     }
 };
+
+document.querySelector('.delete-post-btn').addEventListener('click', deleteFormHandler);
